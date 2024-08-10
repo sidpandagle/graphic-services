@@ -1,8 +1,8 @@
 import Image from "next/image";
 
-export default function Hero() {
+export default function CTA() {
     return (
-        <div className="hero bg-base-200 min-h-screen">
+        <div  id="contact-us" className="hero bg-base-200 min-h-screen">
             <div className="hero-content text-center">
                 <div className="max-w-md">
                     <h1 className="text-5xl font-bold">Hello there</h1>

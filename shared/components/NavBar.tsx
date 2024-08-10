@@ -6,11 +6,11 @@ export default function NavBar() {
             <div className="container mx-auto py-8 flex gap-8 justify-between">
                 <div>TGS</div>
                 <div className="flex gap-8">
-                    <div>Services</div>
-                    <div>Featured Work</div>
-                    <div>About Us</div>
+                    <a href="#services" className="cursor-pointer">Services</a>
+                    <a href="#featured-work" className="cursor-pointer">Featured Work</a>
+                    <a href="#about-us" className="cursor-pointer">About Us</a>
                 </div>
-                <div>Contact Us</div>
+                <a href="#contact-us" className="cursor-pointer">Contact Us</a>
             </div>
         </div>
     );
