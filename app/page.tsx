@@ -8,18 +8,15 @@ import Services from "@/shared/components/Services";
 
 export default function Home() {
   return (
-    <main>
-      <NavBar />
-      <Hero />
-      <Services />
-      <FeaturedWork />
-      <CompanyOverview />
-      <CTA />
-      <Footer />
-      <a href="#navbar">
-        <img className="fixed right-0 bottom-0 z-10 m-8" src={"/gotop.png"} alt="" />
-      </a>
+    <>
+      <main>
+        <Hero />
+        <Services />
+        <FeaturedWork />
+        <CompanyOverview />
+        <CTA />
 
-    </main>
+      </main>
+    </>
   );
 }

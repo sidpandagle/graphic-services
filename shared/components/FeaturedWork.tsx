@@ -5,7 +5,7 @@ export default function FeaturedWork() {
         <div className="p-8  text-center" id="featured-work">
             <div className="mb-8 lg:mb-16 text-center">
                 <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">Featured Work</h2>
-                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Explore a collection of graphic designs that transform concepts into captivating visuals, showcasing creativity, originality, and the power of design to tell stories.</p>
             </div>
 
             <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -54,6 +54,12 @@ export default function FeaturedWork() {
                     </div>
                 </div>
             </div>
+
+            <a href="/work">
+                <button className="btn btn-neutral mt-6 w-40">
+                    See More
+                </button>
+            </a>
         </div>
 
     );
