@@ -44,7 +44,7 @@ export default function Work() {
         <div className="p-8  text-center" id="featured-work">
             <div className="mb-8 lg:mb-16 text-center">
                 <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">Our Work</h2>
-                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Explore a collection of graphic designs that transform concepts into captivating visuals, showcasing creativity, originality, and the power of design to tell stories.</p>
+                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Transform your ideas into stunning visuals with our graphic designs! ✨ Dive into a collection that brings creativity to life, showcasing originality and the art of storytelling through design. Perfect for your social media content</p>
             </div>
             <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
                 {[...data, ...data, ...data, ...data, ...data].map(({ imageLink }, index) => (

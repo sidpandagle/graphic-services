@@ -1,9 +1,9 @@
 import CompanyOverview from "@/shared/components/CompanyOverview";
 import CTA from "@/shared/components/CTA";
 import FeaturedWork from "@/shared/components/FeaturedWork";
-import Footer from "@/shared/components/Footer";
 import Hero from "@/shared/components/Hero";
-import NavBar from "@/shared/components/NavBar";
+import Hero2 from "@/shared/components/Hero2";
+import Pricing from "@/shared/components/Pricing";
 import Services from "@/shared/components/Services";
 
 export default function Home() {
@@ -13,9 +13,9 @@ export default function Home() {
         <Hero />
         <Services />
         <FeaturedWork />
-        <CompanyOverview />
+        {/* <CompanyOverview /> */}
+        <Pricing />
         <CTA />
-
       </main>
     </>
   );
