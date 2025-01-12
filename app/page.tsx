@@ -2,7 +2,6 @@ import CompanyOverview from "@/shared/components/CompanyOverview";
 import CTA from "@/shared/components/CTA";
 import FeaturedWork from "@/shared/components/FeaturedWork";
 import Hero from "@/shared/components/Hero";
-import Hero2 from "@/shared/components/Hero2";
 import Pricing from "@/shared/components/Pricing";
 import Services from "@/shared/components/Services";
 
