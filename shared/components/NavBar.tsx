@@ -4,7 +4,7 @@ export default function NavBar() {
     return (
         <div className="border-b">
             <div id="navbar" className="container mx-auto p-4 md:p-8 flex gap-8 justify-between items-center">
-                <div>DesignForge</div>
+                <div>PixelForgeStudio</div>
                 <div className="hidden md:flex gap-8">
                     <a href="/#services" className="cursor-pointer">Services</a>
                     <a href="/#featured-work" className="cursor-pointer">Featured Work</a>

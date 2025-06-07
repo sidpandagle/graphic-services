@@ -14,7 +14,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "DesignForge",
+  title: "PixelForgeStudio",
   description: "Discover top-notch graphic design services that transform your vision into stunning visuals. From branding to marketing materials, we deliver creative solutions tailored to your needs.",
 };
 

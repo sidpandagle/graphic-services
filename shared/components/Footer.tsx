@@ -6,7 +6,7 @@ export default function Footer() {
             <footer className="footer p-10 container mx-auto items-center">
                 <aside>
                     <p>
-                        DesignForge
+                        PixelForgeStudio
                         <br />
                         Providing reliable designs since 1992
                     </p>

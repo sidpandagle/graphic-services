@@ -5,7 +5,7 @@ export default function Pricing() {
             <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
                 <div className="mx-auto max-w-screen-lg text-center mb-8 lg:mb-12">
                     <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Unleash Your Creativity with Tailored Plans</h2>
-                    <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">At DesignForge, we provide the essential tools and resources to bring your creative visions to life, unlocking new opportunities and fostering long-term growth in digital content.</p>
+                    <p className="mb-5 font-light text-gray-500 sm:text-xl dark:text-gray-400">At PixelForgeStudio, we provide the essential tools and resources to bring your creative visions to life, unlocking new opportunities and fostering long-term growth in digital content.</p>
                 </div>
                 <div className="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">
                     <div className="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white rounded-lg border border-gray-100 shadow dark:border-gray-600 xl:p-8 dark:bg-gray-800 dark:text-white">
