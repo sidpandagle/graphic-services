@@ -9,7 +9,7 @@ export default function NavBar() {
                     <a href="/#services" className="cursor-pointer">Services</a>
                     <a href="/#featured-work" className="cursor-pointer">Featured Work</a>
                     <a href="/#about-us" className="cursor-pointer">About Us</a>
-                    <a href="/#pricing" className="cursor-pointer">Pricing</a>
+                    {/* <a href="/#pricing" className="cursor-pointer">Pricing</a> */}
                 </div>
                 <a href="/#contact-us" className="hidden md:flex cursor-pointer">Contact Us</a>
                 <div className="dropdown dropdown-end md:hidden z-20">
@@ -19,7 +19,7 @@ export default function NavBar() {
                         <li><a href="/#featured-work" className="cursor-pointer">Featured Work</a></li>
                         <li><a href="/#about-us" className="cursor-pointer">About Us</a></li>
                         <li><a href="/#contact-us" className="md:flex cursor-pointer">Contact Us</a></li>
-                        <li><a href="/#pricing" className="md:flex cursor-pointer">Pricing</a></li>
+                        {/* <li><a href="/#pricing" className="md:flex cursor-pointer">Pricing</a></li> */}
                     </ul>
                 </div>
             </div>
